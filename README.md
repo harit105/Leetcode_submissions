@@ -5,7 +5,7 @@
 
 ## What is this?
 
-Leetcode is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. 
+Leetcode is a coding interview preparation platform featuring curated problems and an in-browser code editor. 
 
 ## Repository structure
 
